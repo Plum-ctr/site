@@ -1,6 +1,9 @@
 # AirPod Case
 
-
+## Terms
+#### "AirPods" Refers to the earbuds.
+#### "Shell" Refers to the container that hold the AirPods.
+#### "Case" Refers to the thing that protects the Shell and inturn also the AirPods.
 
 ## Problem Statement
 #### - You cannot check the battery percent of your AirPods without the use of a phone. The people who identify this as a problem are non-iPhone users and students. The environment in which this occurs is at school or a busy setting. This problem has been occurring since Apple released AirPods. According to the poll I created, 88% of the 30 students I polled agree that this is a problem they have.
@@ -25,7 +28,9 @@
 
 #### Makohon, A. (2024, March 2). How to check airpods battery: Unveiling the secrets of airpods battery life - treblab blog. TREBLAB. https://treblab.com/blogs/news/how-to-check-airpod-battery 
 
-
+### Artifact Summary
+#### Android users need to use a third party app to be able to see the battery % of there AirPods. 
+#### This helps further the fact that there is a problem with being able to check the battery of AirPods
 
 
 
