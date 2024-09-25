@@ -1,5 +1,7 @@
 # AirPod Case
-
+---
+id: terms
+---
 ## Terms
 #### "AirPods" Refers to the earbuds.
 #### "Shell" Refers to the container that hold the AirPods.
