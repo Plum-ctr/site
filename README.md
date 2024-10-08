@@ -66,6 +66,10 @@ id: terms
 
 
 
+## Design Specifications
+
+
+
 
 ## Sources
 #### - [AirPod Poll](https://docs.google.com/forms/d/1aVDSOM6HkFfgVF3ke4yvM-jfQLU2wg3XL9RGB56SbAs/prefill)
