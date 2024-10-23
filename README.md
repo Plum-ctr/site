@@ -1,6 +1,7 @@
 # AirPod Case
 ---
 # Shortcuts
+https://github.com/Plum-ctr/site/blob/main/README.md#terms
 ---
 ## Terms
 #### "AirPods" Refers to the earbuds.
