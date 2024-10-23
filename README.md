@@ -1,6 +1,6 @@
 # AirPod Case
 ---
-id: terms
+# Shortcuts
 ---
 ## Terms
 #### "AirPods" Refers to the earbuds.
@@ -65,11 +65,31 @@ id: terms
 #### US20210345742A1: Protective case that keeps airpods safe.
 
 
+## Design Specification Document
 
-## Design Specifications
-
-
-
+#### Name of Product: P.B and Case (Perchantage of battery case) 
+ 
+#### Innovators: Wyatt Plumley 
+ 
+#### Target Consumers: Owners of AirPods 
+ 
+## Design Specifications:  
+ 
+#### Customer needs- The customer needs a AirPod case that can read the battery % of the AirPod case. 
+ 
+#### Performance- The device must be able to accurately tell you the battery % of your AirPods via an external case 
+ 
+#### Target Cost- The cost should not be more than half the price of AirPods (>65$) 
+ 
+#### Size and weight – The product should not be much bigger than the AirPods themselves and it shouldn't be more than double the weight of the AirPods (76 g) 
+ 
+#### Aesthetics- The color of the outside protective part will chose by the customer (as of now there will only be one color) 
+ 
+#### Materials – It will be made mostly out of rubber/silca. 
+ 
+#### Safety, Legal, and Ethical Issues – Copyright from apple? There may be a problem where the screen may get hot from use. 
+ 
+#### Additional Criteria – The product shouldn't drain all the battery from the airpod case. 
 
 ## Sources
 #### - [AirPod Poll](https://docs.google.com/forms/d/1aVDSOM6HkFfgVF3ke4yvM-jfQLU2wg3XL9RGB56SbAs/prefill)
