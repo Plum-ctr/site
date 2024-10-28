@@ -2,6 +2,9 @@
 #### By Wyatt Plumley 
 #### Oct 28 
 
+## Executive summary:
+#### The purpose of my project is to allow someone to be able to tell the battery penchant of their Airpod case without the use of their phone. The way I plan on doing this is by having a screen on the front of the case telling you the battery penchant of the Airpod case.  
+
 
 ## Terms
 #### "AirPods" Refers to the earbuds.
