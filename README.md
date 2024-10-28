@@ -81,7 +81,7 @@
 #### Target Consumers: Owners of AirPods 
  
 ## Design Specifications:  
- 
+#### This is listed from most important to least important 
 #### Customer needs- The customer needs a AirPod case that can read the battery % of the AirPod case. 
  
 #### Performance- The device must be able to accurately tell you the battery % of your AirPods via an external case 
@@ -96,7 +96,7 @@
  
 #### Materials – It will be made mostly out of rubber/silca. 
 
- #### Aesthetics- The color of the outside protective part will chose by the customer (as of now there will only be one color) 
+#### Aesthetics- The color of the outside protective part will chose by the customer (as of now there will only be one color) 
 
 ## Sources
 #### - [AirPod Poll](https://docs.google.com/forms/d/1aVDSOM6HkFfgVF3ke4yvM-jfQLU2wg3XL9RGB56SbAs/prefill)
