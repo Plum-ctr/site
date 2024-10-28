@@ -1,13 +1,14 @@
-# AirPod Case
----
-# Shortcuts
----
+# Airpod case that tells you the battery % of the case 
+#### By Wyatt Plumley 
+#### Oct 28 
+
+
 ## Terms
 #### "AirPods" Refers to the earbuds.
 #### "Shell" Refers to the container that hold the AirPods.
 #### "Case" Refers to the thing that protects the Shell and inturn also the AirPods.
 
-
+# Element A:
 
 ## Problem Statement
 #### -You cannot check the battery percent of your AirPods without the use of a phone. The people who identify this as a problem are non-iPhone users and students. The environment in which this occurs is at school or a busy setting. This problem has been occurring since Apple released AirPods. According to the poll I created, 88% of the 30 students I polled agree that this is a problem they have.
@@ -44,6 +45,7 @@
 #### This helps further the fact that there is a problem with being able to check the battery of AirPods
 
 
+# Element B:
 
 
 ## Patent Summary Sheet
@@ -63,6 +65,8 @@
 #### CN209547264U: Keeps case from being damaged as well as airpods.
 #### US11672317B2: Case that keeps airpods from getting water damage.
 #### US20210345742A1: Protective case that keeps airpods safe.
+
+# Element C:
 
 
 ## Design Specification Document
