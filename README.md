@@ -71,6 +71,8 @@
 
 # Element C:
 
+### Intro
+#### The way I determined design specifications, constraints, and parameters was by going through and considering what I and other students wanted. And then using the information to determine the importance of each criterion.
 
 ## Design Specification Document
 
